@@ -18,7 +18,7 @@ public class User {
     private final List<String> friends;
 
     public User(int id) {
-        String[] forenames = {"Alice", "Bartosz", "Mack"};
+        String[] forenames = {"Alice", "Manjula", "Bartosz", "Mack"};
         String[] surnames = {"Smith", "Salvatore", "Jedrzejewski", "Scott"};
         String[] organisations = {"ScottLogic", "UNICEF"};
 
